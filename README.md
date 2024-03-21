@@ -1,17 +1,4 @@
 # 👋 Hi, I’m @FreyHK
-👀 I’m interested in 
-  - Web
-  - Mobile apps
-  
-🌱 I’m currently learning
-  - Web design
-  - Writing
-  
-💞️ I’m looking to collaborate on 
-  - My blog: threeminuteblog.com
-  - ...
-  
-📫 Where to reach me 
   - hustedapps.com
 
 <!---
